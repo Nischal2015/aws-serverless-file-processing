@@ -2,3 +2,5 @@
 venv
 *.md
 *.zip
+
+!README.md
