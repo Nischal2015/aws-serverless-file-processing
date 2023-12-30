@@ -4,3 +4,4 @@ venv
 *.zip
 
 !README.md
+!interview.md
